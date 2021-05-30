@@ -1,7 +1,8 @@
 {
-  "name": "mern-shopping",
+  "homepage": "https://github.com/hadeediqbal/redux-store",
+  "name": "redux-shop",
   "version": "1.0.0",
-  "description": "",
+  "description": "redux shop",
   "main": "server/server.js",
   "scripts": {
     "start": "if-env NODE_ENV=production && npm run start:prod || npm run start:dev",
@@ -11,7 +12,7 @@
     "seed": "cd server && npm run seed",
     "heroku-postbuild": "cd client && npm run build"
   },
-  "author": "",
+  "author": "hadeediqbal",
   "license": "ISC",
   "dependencies": {
     "if-env": "^1.0.4",
