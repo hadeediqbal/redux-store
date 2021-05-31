@@ -14,3 +14,5 @@ SO THAT my website's state management is taken out of the React ecosystem
 ![](images/first.gif)
 ![](images/second.gif)
 ![](images/third.gif)
+
+credit source: @OwaisIslam
