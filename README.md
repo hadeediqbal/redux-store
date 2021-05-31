@@ -11,3 +11,6 @@ SO THAT my website's state management is taken out of the React ecosystem
 
 
 ## Application View
+![](images/first.gif)
+![](images/second.gif)
+![](images/third.gif)
